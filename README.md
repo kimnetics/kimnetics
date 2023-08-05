@@ -6,4 +6,4 @@ With my last companies, I also worked with C#, Node.js and Ruby, but JetBrains A
 
 ### About Me
 
-Here is my [portfolio site](https://greg.kimnetics.com/) if you would like to learn more about me.
+See my [portfolio site](https://greg.kimnetics.com/) or [LinkedIn page](https://www.linkedin.com/in/6502a/) if you would like to learn more about me.
