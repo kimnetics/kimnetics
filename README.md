@@ -4,6 +4,8 @@ Nearly all of my work is for companies with private repos so my personal GitHub 
 
 With my last companies, I also worked with C#, Node.js and Ruby, but JetBrains Academy did not have tracks in those areas for me to show some style examples.
 
+I sometimes work on LeetCode or HackerRank problems. You can see how I approached them [here](https://github.com/kimnetics/LeetCode) and [here](https://github.com/kimnetics/HackerRank). For these types of problems, I tend to go lighter on comments than I would in production. Also, in production I try to be very precise in my naming. For these types of problems, my naming might be a little more casual.
+
 ### About Me
 
 See my [portfolio site](https://greg.kimnetics.com/) or [LinkedIn page](https://www.linkedin.com/in/6502a/) if you would like to learn more about me.
