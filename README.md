@@ -4,7 +4,7 @@ I completed several JetBrains Academy tracks so I could show some examples of my
 
 Also here is a quiz building system I wrote as part of an interview process. The system was done in a serverless style using AWS and uses Node.js, API Gateway, Cognito, Lambdas and DynamoDB.
 
-I sometimes work on LeetCode or HackerRank problems. You can see how I approached them [here](https://github.com/kimnetics/LeetCode) and [here](https://github.com/kimnetics/HackerRank). For these types of problems, I tend to go lighter on comments than I would in production. Also for these types of problems, my naming might be a little more casual than what I normally use.
+I sometimes work on LeetCode, HackerRank or Codility problems. You can see how I approached them [here](https://github.com/kimnetics/LeetCode), [here](https://github.com/kimnetics/HackerRank) and [here](https://github.com/kimnetics/Codility). For these types of problems, I tend to go lighter on comments than I would in production. Also for these types of problems, my naming might be a little more casual than what I normally use.
 
 ### About Me
 
