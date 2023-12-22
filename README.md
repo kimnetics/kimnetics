@@ -1,10 +1,14 @@
 ### About What's Here
 
-I completed several JetBrains Academy tracks so I could show some examples of my code style. The repos include final solutions for these JetBrains Academy tracks: Java Core, Java Developer, Advanced Java, Python Core and Frontend Core. Each project in a track goes through several iterations, simulating what happens in the real world where requests to add features evolve a system over time. Sometimes later iterations extend what was previously built. Sometimes later iterations pivot quite a bit and make a portion of what was previously built invalid. The code in the repos is as it was when I passed the automated tests for the final stage of the project so you can see how I approached the evolving requirements.
+This is my personal GitHub account.
 
-Also here is a quiz building system I wrote as part of an interview process. The system was done in a serverless style using AWS and uses Node.js, API Gateway, Cognito, Lambdas and DynamoDB.
+There are open source contributions.
 
-I sometimes work on LeetCode, HackerRank or Codility problems. You can see how I approached them [here](https://github.com/kimnetics/LeetCode), [here](https://github.com/kimnetics/HackerRank) and [here](https://github.com/kimnetics/Codility). For these types of problems, I tend to go lighter on comments than I would in production. Also for these types of problems, my naming might be a little more casual than what I normally use.
+I completed several JetBrains Academy tracks: Java Core, Java Developer, Advanced Java, Python Core and Frontend Core. The repos include passing solutions for these tracks.
+
+There is a quiz building system I wrote as part of an interview process. The system was done in a serverless style using AWS and uses Node.js, API Gateway, Cognito, Lambdas and DynamoDB.
+
+I sometimes work on LeetCode and Codility problems. Solutions that score 100% can be found [here](https://github.com/kimnetics/LeetCode) and [here](https://github.com/kimnetics/Codility).
 
 ### About Me
 
