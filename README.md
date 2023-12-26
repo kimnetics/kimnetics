@@ -4,11 +4,11 @@ This is my personal GitHub account.
 
 There are open source contributions.
 
-I completed several JetBrains Academy tracks: Java Core, Java Developer, Advanced Java, Python Core and Frontend Core. The repos include passing solutions for these tracks.
+There are passing solutions for these JetBrains Academy tracks: Frontend Core, Java Core, Java Developer, Advanced Java and Python Core.
 
-There is a quiz building system I wrote as part of an interview process. The system was done in a serverless style using AWS and uses Node.js, API Gateway, Cognito, Lambdas and DynamoDB.
+There is a quiz building system I wrote as part of an interview process. The system was done in a serverless style on AWS and uses Node.js Lambdas, API Gateway, Cognito and DynamoDB.
 
-I sometimes work on LeetCode and Codility problems. Solutions that score 100% can be found [here](https://github.com/kimnetics/LeetCode) and [here](https://github.com/kimnetics/Codility).
+There are solutions that score 100% on Codility and LeetCode. They may be found [here](https://github.com/kimnetics/Codility) and [here](https://github.com/kimnetics/LeetCode).
 
 ### About Me
 
