@@ -1,6 +1,6 @@
 ### About What's Here
 
-This is my personal GitHub account.
+This is my personal GitHub account. It has some personal projects.
 
 There are open source contributions.
 
